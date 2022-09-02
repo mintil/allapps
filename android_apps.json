@@ -1,0 +1,23 @@
+{
+    "games": [
+        {
+            "name": "ml quiz",
+            "url": "https://bit.ly/3KDUf7f",
+            "image": "/img/grocerylist.webp"
+
+
+        }
+    ],
+    "apps": [
+        {
+            "name": "Budget Expense Tracker",
+            "url": "https://bit.ly/3KDUf7f",
+            "image": "/img/expensetracker.webp"
+        },
+        {
+            "name": "Grocery Shopping List",
+            "url": "https://bit.ly/3BancVi",
+            "image": "/img/grocerylist.webp"
+        }
+    ]
+}
