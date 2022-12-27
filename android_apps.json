@@ -1,12 +1,11 @@
 {
     "games": [
+
         {
-            "name": "ml quiz",
-            "url": "https://bit.ly/3KDUf7f",
-            "image": "/img/grocerylist.webp"
-
-
-        }
+            "name": "Find Emoji",
+            "url": "https://bit.ly/3YRgPjb",
+            "image": "/img/findemoji.webp"
+        }    
     ],
     "apps": [
         {
